@@ -1,0 +1,31 @@
+:root {
+  --chipBgColor: #CCCC66FF;
+  --chipFgColor: black;
+  --chipElBgColor: #EEF4FFFF;
+  --chipElFgColor: black;
+  --chipLBgColor: #B38D41FF;
+  --chipLFgColor: black;
+  --chipMBgColor: #E6B34DFF;
+  --chipMFgColor: black;
+  --chipDBgColor: #B3B34DFF;
+  --chipDFgColor: black;
+}
+.chip_background{background-color:#CCCC66FF !important;}
+.chip_background .chip_instructions{color:black !important;}
+.chip_background{color:black !important;}
+
+.chip_extralight{background-color:#EEF4FFFF !important;}
+.chip_extralight .chip_instructions{color:black !important;}
+.chip_extralight{color:black !important;}
+
+.chip_light{background-color:#B38D41FF!important;}
+.chip_light .chip_instructions{color:black !important;}
+.chip_light{color:black !important;}
+
+.chip_medium{background-color:#E6B34DFF!important;}
+.chip_medium .chip_instructions{color:black !important;}
+.chip_medium{color:black !important;}
+
+.chip_dark{	background-color:#B3B34DFF !important;}
+.chip_dark .chip_instructions{color:black !important;}
+.chip_dark{color:black !important;}
